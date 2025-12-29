@@ -13,16 +13,16 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fdev-radar%2Fpermission.png?alt=media&token=2a4f67a0-d077-4705-974b-acb5748a959f" alt="Foto do App Permissição" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fdev-radar%2Fdashboard.png?alt=media&token=6a495e21-fc98-416e-9dc1-fb6a5db6340d" alt="Foto do App Dashboard" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/dev-radar/permission.png" alt="Foto do App Permissição" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/dev-radar/dashboard.png" alt="Foto do App Dashboard" width="360" /></td>
 
 </tr>
 </table>
 
 <table>
   <tr>
-  <td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fdev-radar%2Fdescription.png?alt=media&token=f0d6475b-52f4-4743-a626-23134def48a3" alt="Foto do App descrição" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fdev-radar%2Fprofile.png?alt=media&token=3317e997-e581-4cfb-b3f7-ce9fa3654393" alt="Foto do App perfil" width="360" /></td>
+  <td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/dev-radar/description.png" alt="Foto do App descrição" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/dev-radar/profile.png" alt="Foto do App perfil" width="360" /></td>
 </tr>
 </table>
 
