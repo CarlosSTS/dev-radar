@@ -41,5 +41,5 @@ RODANDO O PROJETO NO BACKEND
 
 ## Feito por Carlos Ferreira
 * [Github](https://www.github.com/CarlosSTS)
-* [Email](mailto://carlossts826@gmail.com)
+* [Email](mailto://carlossts.dev@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
